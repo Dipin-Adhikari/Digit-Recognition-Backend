@@ -1,0 +1,9 @@
+tensorflow
+pytest==8.3.5
+httpx==0.28.1
+fastapi
+fastapi-cli
+opencv-python==4.11.0.86
+python-dotenv==1.0.1
+python-multipart==0.0.20
+starlette==0.14.2
