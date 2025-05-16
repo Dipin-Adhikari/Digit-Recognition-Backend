@@ -10,6 +10,8 @@ app = FastAPI()
 # Initialize DB
 init_db()
 
+#comment random
+
 IMAGE_DIR = "../uploads"
 os.makedirs(IMAGE_DIR, exist_ok=True)
 
