@@ -12,6 +12,12 @@ The application stores the uploaded images on disk and uses **SQLite** to track 
 
 ---
 
+### 🔍 Demo Video
+
+📽️ [Click here to watch the demo video](https://drive.google.com/file/d/1qnC3OMwMTExNB7tbLuzSO4nBkRs3Ec__/view?usp=sharing)
+
+---
+
 ## 🧰 Tech Stack
 
 - **FastAPI** – for building the RESTful API
@@ -56,8 +62,8 @@ root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/digit-recognition-api.git
-cd digit-recognition-api
+git clone https://github.com/Dipin-Adhikari/Digit-Recognition-Backend.git
+cd Digit-Recognition-Backend
 ```
 
 ### 2. Create Virtual Environment
